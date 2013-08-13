@@ -6,15 +6,15 @@
     <bundle.namespace>org.wiperdog.rshell.api</bundle.namespace>
   </properties>
   <parent>
-  	<artifactId>wiperdog</artifactId>
+  	<artifactId>wiperdog-parent</artifactId>
   	<groupId>org.wiperdog</groupId>
-  	<version>0.1.0</version>
+  	<version>0.1.0-SNAPSHOT</version>
   </parent>
 
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.wiperdog</groupId>
   <artifactId>org.wiperdog.rshell.api</artifactId>
-  <version>0.1.0</version>
+  <version>0.1.0-SNAPSHOT</version>
 
   <name>${bundle.symbolicName}</name>
   <description>restricted shell interfaces</description>
